@@ -1,0 +1,12 @@
+{"snacks":
+  [
+    {"id": "1", "name":"Apple","price":"1", "tasty": "true", "haveit": "maybe"},
+    {"id": "2", "name":"Avocado","price":"2", "tasty": "false", "haveit": "yes"},
+    {"id": "3", "name":"Banana","price":"3", "tasty": "true", "haveit": "no"},
+    {"id": "4", "name":"Celery","price":"4", "tasty": "true", "haveit": "yes"},
+    {"id": "5", "name":"Chicken","price":"5", "tasty": "false", "haveit": "no"},
+    {"id": "6", "name":"Cucumber","price":"6", "tasty": "false", "haveit": "yes"},
+    {"id": "7", "name":"Egg","price":"7", "tasty": "true", "haveit": "yes"},
+    {"id": "8", "name":"Pita","price":"8", "tasty": "false", "haveit": "maybe"}
+  ]
+}

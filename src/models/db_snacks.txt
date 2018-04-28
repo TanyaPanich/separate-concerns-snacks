@@ -1,0 +1,2 @@
+1 Apple 3 true yes
+2 cookie 4 false no
