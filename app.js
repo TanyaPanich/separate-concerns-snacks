@@ -3,7 +3,6 @@ const app = express()
 const port = process.env.PORT || 3000
 const bodyParser = require('body-parser')
 const morgan = require('morgan')
-const uuid = require('uuid/v4')
 
 app.disable('x-powered-by')
 if (process.env.NODE_ENV === 'development') app.use(morgan('dev'))
