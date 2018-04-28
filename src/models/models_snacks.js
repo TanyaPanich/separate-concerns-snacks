@@ -3,7 +3,6 @@
 const fs = require('fs')
 const path = require('path')
 const httpErrors = require('http-errors')
-const uuid = require('uuid/v4')
 const dbFile = path.join(__dirname,'db_snacks.json')
 console.log('dirname', __dirname)
 
